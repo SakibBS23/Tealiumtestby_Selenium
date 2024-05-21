@@ -29,7 +29,7 @@ namespace Tealium_test.Pages
         }
         public void DeliveryContinue()
         {
-            btnshippingContinue.Click();
+            btncashonDeliveryContinueBtn.Click();
         }
         public void placeOrder()
         {

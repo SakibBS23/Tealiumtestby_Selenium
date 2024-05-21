@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\shippingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\shippingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\billing_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\billing_address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\pages\\billing address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\pages\\billing address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\models\\billingaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\models\\billingaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\billingaddress.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\billingaddress.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|c:\\users\\bs-test\\source\\repos\\tealium_test\\tealium_test\\utility\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3D9750-3B2C-4F7F-841F-352AE4BE3CC7}|Tealium_test\\Tealium_test.csproj|solutionrelative:tealium_test\\utility\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Billing Address.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Billing Address.cs",
-              "RelativeDocumentMoniker": "Tealium_test\\Pages\\Billing Address.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Billing Address.cs",
-              "RelativeToolTip": "Tealium_test\\Pages\\Billing Address.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:40:46.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDetails.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\ProductDetails.cs",
-              "RelativeDocumentMoniker": "Tealium_test\\Pages\\ProductDetails.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\ProductDetails.cs",
-              "RelativeToolTip": "Tealium_test\\Pages\\ProductDetails.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAawCQAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:12:16.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Tealium_test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\UnitTest1.cs",
-              "RelativeToolTip": "Tealium_test\\UnitTest1.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:41:28.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ShippingMethod.cs",
               "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\ShippingMethod.cs",
               "RelativeDocumentMoniker": "Tealium_test\\Pages\\ShippingMethod.cs",
               "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\ShippingMethod.cs",
               "RelativeToolTip": "Tealium_test\\Pages\\ShippingMethod.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCQAAAAJAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T12:03:21.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Login.cs",
-              "RelativeDocumentMoniker": "Tealium_test\\Pages\\Login.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Login.cs",
-              "RelativeToolTip": "Tealium_test\\Pages\\Login.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAWwA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:57:46.605Z",
+              "WhenOpened": "2024-05-21T09:45:03.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CartPage.cs",
-              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\CartPage.cs",
-              "RelativeDocumentMoniker": "Tealium_test\\Pages\\CartPage.cs",
-              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\CartPage.cs",
-              "RelativeToolTip": "Tealium_test\\Pages\\CartPage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAxwCQAAAAJAAAA",
+              "Title": "BillingAddress.json",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\BillingAddress.json",
+              "RelativeDocumentMoniker": "Tealium_test\\BillingAddress.json",
+              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\BillingAddress.json",
+              "RelativeToolTip": "Tealium_test\\BillingAddress.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T07:01:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingAddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Models\\BillingAddressModel.cs",
+              "RelativeDocumentMoniker": "Tealium_test\\Models\\BillingAddressModel.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Models\\BillingAddressModel.cs",
+              "RelativeToolTip": "Tealium_test\\Models\\BillingAddressModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:30:04.883Z",
+              "WhenOpened": "2024-05-21T06:51:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Billing_Address.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Billing_Address.cs",
+              "RelativeDocumentMoniker": "Tealium_test\\Pages\\Billing_Address.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Pages\\Billing_Address.cs",
+              "RelativeToolTip": "Tealium_test\\Pages\\Billing_Address.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:42:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tealium_test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\UnitTest1.cs",
+              "RelativeToolTip": "Tealium_test\\UnitTest1.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwIsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:22:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JSONReader.cs",
+              "DocumentMoniker": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Utility\\JSONReader.cs",
+              "RelativeDocumentMoniker": "Tealium_test\\Utility\\JSONReader.cs",
+              "ToolTip": "C:\\Users\\BS-Test\\source\\repos\\Tealium_test\\Tealium_test\\Utility\\JSONReader.cs",
+              "RelativeToolTip": "Tealium_test\\Utility\\JSONReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:22:42.167Z",
               "EditorCaption": ""
             },
             {

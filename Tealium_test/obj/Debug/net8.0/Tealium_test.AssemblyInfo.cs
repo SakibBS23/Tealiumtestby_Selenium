@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tealium_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0e08ee1d50b830c48887c84c1ce04455d00413")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tealium_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tealium_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

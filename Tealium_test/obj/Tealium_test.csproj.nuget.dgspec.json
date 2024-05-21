@@ -61,6 +61,10 @@
               "target": "Package",
               "version": "[4.5.0, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[4.21.0, )"
@@ -68,6 +72,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.21.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "coverlet.collector": {
               "target": "Package",

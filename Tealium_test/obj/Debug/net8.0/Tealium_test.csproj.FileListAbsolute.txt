@@ -103,3 +103,6 @@ C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\obj\Debug\net8.0\Tealium
 C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\obj\Debug\net8.0\Tealium_test.genruntimeconfig.cache
 C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\obj\Debug\net8.0\ref\Tealium_test.dll
 C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\bin\Debug\net8.0\login.json
+C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\obj\Debug\net8.0\Tealium_test.sourcelink.json
+C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\bin\Debug\net8.0\Cart.json
+C:\Users\BS-Test\source\repos\Tealium_test\Tealium_test\bin\Debug\net8.0\BillingAddress.json

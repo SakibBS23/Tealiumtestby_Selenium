@@ -1,9 +1,12 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
+using OpenQA.Selenium.Interactions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Tealium_test.Pages
 {
@@ -33,6 +36,14 @@ namespace Tealium_test.Pages
         }
         public void checkoutProceed()
         {
+
+            //var element = _driver.FindElement(By.ClassName("button btn-proceed-checkout btn-checkout"));
+            /*Actions actions = new Actions(_driver);
+            actions.MoveToElement(proceedToCheckout);
+            actions.Perform();*/
+            IJavaScriptExecutor js = (IJavaScriptExecutor)_driver;
+            js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);");
+            Thread.Sleep(1000);
             proceedToCheckout.Click();
         }
     }

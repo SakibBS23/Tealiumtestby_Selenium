@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tealium_test.Models
 {
-    public class LoginModel
+    public class CombinedModel
     {
-        public string? email { get; set; }
-        public string? password { get; set; }
-
+        public LoginModel loginModel { set; get; }
+        public CartModel cartModel {  set; get; }
     }
 }
